@@ -1,5 +1,7 @@
 <?
-	/*
+	/* New edist 17fef */
+	require( 'core/core.php' );
+
 		Entrypoint into the new AppleInsider.
 	*/$start_time = microtime( true );
 	require( 'core/ai_core.php' );
