@@ -1,9 +1,7 @@
 <?
-	/*
+	/* fb 17
 		Entrypoint into the new AppleInsider.
-	*/$start_time = microtime( true );
-	require( 'core/ai_core.php' );
-
+	*/ 
 
 	//Start execution time...
 	$start_time = microtime( true );
